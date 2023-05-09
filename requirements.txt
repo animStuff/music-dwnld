@@ -1,0 +1,4 @@
+moviepy==1.0.3
+musixmatch==0.9
+pymusixmatch==0.3
+pytube==12.1.0
